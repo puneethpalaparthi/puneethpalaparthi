@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puneethpalaparthi" alt="puneethpalaparthi" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" src="https://www.linkedin.com/in/palaparthi-puneeth-154352321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="PUNEETH PALAPARTHI">Connect with me </h3>
 <p align="left">
 </p>
 
